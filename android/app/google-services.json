@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626672207474",
+    "project_id": "open-chat-d03b6",
+    "storage_bucket": "open-chat-d03b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626672207474:android:5b966770ddfdb9fed164eb",
+        "android_client_info": {
+          "package_name": "com.ankit71.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626672207474-b5var08qbi4518ur7c7sf2leb2bgq4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOpNmvyWqyLBkq7NMVn_adcV_RQWCL3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626672207474-b5var08qbi4518ur7c7sf2leb2bgq4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
